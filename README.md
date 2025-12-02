@@ -7,7 +7,7 @@ This project combines a **Bi-directional RNN**-based **Intent Classification** m
 ## 🚀 Features
 
 - Trained Bi-directional RNN (GRU + LSTM) model for intent detection  
-- Pre-trained model reused from [Intent Classification Project](https://github.com/your-username/previous-intent-repo)  
+- Pre-trained model reused from [Intent Classification Project]([https://github.com/your-username/previous-intent-repo](https://github.com/vrmaverick/Intent_Classification))  
 - Extracts comments using YouTube Data API (given a `video_id`)  
 - Analyzes sentiment (positive/negative/neutral) using `TextBlob`  
 - Visualizes prediction and sentiment outcomes  
